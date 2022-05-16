@@ -1,0 +1,16 @@
+Pepe,01,01,2000,Talca,7
+Pepelucho,02,01,2001,Santiago,13
+Pepito,01,25,2000,Talca,7
+Pepon,01,03,2000,Rancagua,6
+Pepe,01,01,2002,Talca,7
+Pepe,01,01,2002,Talca,7
+Pepe,01,01,2005,Talca,7
+Pepe,01,01,2006,Talca,7
+Pepe,01,01,2000,Talca,7
+Pepelucho,02,01,2001,Santiago,13
+Pepito,01,01,2000,Talca,7
+Pepon,01,03,2000,Rancagua,6
+Pepe,01,01,2002,Talca,7
+Pepe,01,01,2002,Talca,7
+Pepe,01,01,2005,Talca,7
+Pepe,01,01,2006,Talca,7
